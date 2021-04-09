@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+int main() {
+
+int nota1,nota2,media;
+cout <<"digite a nota 1:\n";
+cin>>nota1;
+cout <<"digite a nota 2:\n";
+cin>>nota2;
+media=(nota1+nota2) /2;
+cout<<"valor da media" <<media;
+}
